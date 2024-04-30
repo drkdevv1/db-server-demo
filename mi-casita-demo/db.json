@@ -168,5 +168,47 @@
       "price": "$1,300",
       "thumbnail": "https://img10.naventcdn.com/avisos/resize/111/01/43/40/34/34/1200x1200/1458082809.jpg?isFirstImage=true"
     }
+  ],
+  "user_payments": [
+    {
+      "id": "1",
+      "owner_name": "Juan Perez",
+      "dni": "12345678",
+      "phone_number": "+123456789",
+      "email": "juan@example.com",
+      "amount": "$100"
+    },
+    {
+      "id": "2",
+      "owner_name": "Maria Lopez",
+      "dni": "87654321",
+      "phone_number": "+987654321",
+      "email": "maria@example.com",
+      "amount": "$500"
+    },
+    {
+      "id": "3",
+      "owner_name": "Pedro Ramirez",
+      "dni": "23456789",
+      "phone_number": "+234567890",
+      "email": "pedro@example.com",
+      "amount": "$200"
+    },
+    {
+      "id": "4",
+      "owner_name": "Ana Torres",
+      "dni": "98765432",
+      "phone_number": "+987654321",
+      "email": "ana@example.com",
+      "amount": "$50"
+    },
+    {
+      "id": "ec8c",
+      "owner_name": "sadas",
+      "dni": 0,
+      "phone_number": "",
+      "email": "asd@sdada.com",
+      "amount": "0asddas"
+    }
   ]
 }
